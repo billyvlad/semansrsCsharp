@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/semis/bin/Debug/net6.0/semis
+/home/vladya/Рабочий стол/semis/bin/Debug/net6.0/semis.deps.json
+/home/vladya/Рабочий стол/semis/bin/Debug/net6.0/semis.runtimeconfig.json
+/home/vladya/Рабочий стол/semis/bin/Debug/net6.0/semis.dll
+/home/vladya/Рабочий стол/semis/bin/Debug/net6.0/ref/semis.dll
+/home/vladya/Рабочий стол/semis/bin/Debug/net6.0/semis.pdb
+/home/vladya/Рабочий стол/semis/obj/Debug/net6.0/semis.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/semis/obj/Debug/net6.0/semis.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/semis/obj/Debug/net6.0/semis.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/semis/obj/Debug/net6.0/semis.AssemblyInfo.cs
+/home/vladya/Рабочий стол/semis/obj/Debug/net6.0/semis.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/semis/obj/Debug/net6.0/semis.dll
+/home/vladya/Рабочий стол/semis/obj/Debug/net6.0/ref/semis.dll
+/home/vladya/Рабочий стол/semis/obj/Debug/net6.0/semis.pdb
+/home/vladya/Рабочий стол/semis/obj/Debug/net6.0/semis.genruntimeconfig.cache

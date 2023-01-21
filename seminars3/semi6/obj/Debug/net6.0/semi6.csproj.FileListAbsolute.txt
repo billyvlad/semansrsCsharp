@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/semis/seminars3/semi6/obj/Debug/net6.0/semi6.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/semis/seminars3/semi6/obj/Debug/net6.0/semi6.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/semis/seminars3/semi6/obj/Debug/net6.0/semi6.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/semis/seminars3/semi6/obj/Debug/net6.0/semi6.AssemblyInfo.cs
+/home/vladya/Рабочий стол/semis/seminars3/semi6/obj/Debug/net6.0/semi6.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/semis/seminars3/semi6/bin/Debug/net6.0/semi6
+/home/vladya/Рабочий стол/semis/seminars3/semi6/bin/Debug/net6.0/semi6.deps.json
+/home/vladya/Рабочий стол/semis/seminars3/semi6/bin/Debug/net6.0/semi6.runtimeconfig.json
+/home/vladya/Рабочий стол/semis/seminars3/semi6/bin/Debug/net6.0/semi6.dll
+/home/vladya/Рабочий стол/semis/seminars3/semi6/bin/Debug/net6.0/ref/semi6.dll
+/home/vladya/Рабочий стол/semis/seminars3/semi6/bin/Debug/net6.0/semi6.pdb
+/home/vladya/Рабочий стол/semis/seminars3/semi6/obj/Debug/net6.0/semi6.dll
+/home/vladya/Рабочий стол/semis/seminars3/semi6/obj/Debug/net6.0/ref/semi6.dll
+/home/vladya/Рабочий стол/semis/seminars3/semi6/obj/Debug/net6.0/semi6.pdb
+/home/vladya/Рабочий стол/semis/seminars3/semi6/obj/Debug/net6.0/semi6.genruntimeconfig.cache

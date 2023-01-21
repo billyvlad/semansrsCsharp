@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/semis/semis4/bin/Debug/net6.0/semis4
+/home/vladya/Рабочий стол/semis/semis4/bin/Debug/net6.0/semis4.deps.json
+/home/vladya/Рабочий стол/semis/semis4/bin/Debug/net6.0/semis4.runtimeconfig.json
+/home/vladya/Рабочий стол/semis/semis4/bin/Debug/net6.0/semis4.dll
+/home/vladya/Рабочий стол/semis/semis4/bin/Debug/net6.0/ref/semis4.dll
+/home/vladya/Рабочий стол/semis/semis4/bin/Debug/net6.0/semis4.pdb
+/home/vladya/Рабочий стол/semis/semis4/obj/Debug/net6.0/semis4.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/semis/semis4/obj/Debug/net6.0/semis4.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/semis/semis4/obj/Debug/net6.0/semis4.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/semis/semis4/obj/Debug/net6.0/semis4.AssemblyInfo.cs
+/home/vladya/Рабочий стол/semis/semis4/obj/Debug/net6.0/semis4.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/semis/semis4/obj/Debug/net6.0/semis4.dll
+/home/vladya/Рабочий стол/semis/semis4/obj/Debug/net6.0/ref/semis4.dll
+/home/vladya/Рабочий стол/semis/semis4/obj/Debug/net6.0/semis4.pdb
+/home/vladya/Рабочий стол/semis/semis4/obj/Debug/net6.0/semis4.genruntimeconfig.cache

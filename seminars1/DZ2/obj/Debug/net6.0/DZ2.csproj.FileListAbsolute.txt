@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/semis/DZ2/bin/Debug/net6.0/DZ2
+/home/vladya/Рабочий стол/semis/DZ2/bin/Debug/net6.0/DZ2.deps.json
+/home/vladya/Рабочий стол/semis/DZ2/bin/Debug/net6.0/DZ2.runtimeconfig.json
+/home/vladya/Рабочий стол/semis/DZ2/bin/Debug/net6.0/DZ2.dll
+/home/vladya/Рабочий стол/semis/DZ2/bin/Debug/net6.0/ref/DZ2.dll
+/home/vladya/Рабочий стол/semis/DZ2/bin/Debug/net6.0/DZ2.pdb
+/home/vladya/Рабочий стол/semis/DZ2/obj/Debug/net6.0/DZ2.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/semis/DZ2/obj/Debug/net6.0/DZ2.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/semis/DZ2/obj/Debug/net6.0/DZ2.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/semis/DZ2/obj/Debug/net6.0/DZ2.AssemblyInfo.cs
+/home/vladya/Рабочий стол/semis/DZ2/obj/Debug/net6.0/DZ2.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/semis/DZ2/obj/Debug/net6.0/DZ2.dll
+/home/vladya/Рабочий стол/semis/DZ2/obj/Debug/net6.0/ref/DZ2.dll
+/home/vladya/Рабочий стол/semis/DZ2/obj/Debug/net6.0/DZ2.pdb
+/home/vladya/Рабочий стол/semis/DZ2/obj/Debug/net6.0/DZ2.genruntimeconfig.cache
