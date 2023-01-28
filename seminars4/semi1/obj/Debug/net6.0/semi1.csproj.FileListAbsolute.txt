@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/obj/Debug/net6.0/semi1.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/obj/Debug/net6.0/semi1.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/obj/Debug/net6.0/semi1.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/obj/Debug/net6.0/semi1.AssemblyInfo.cs
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/obj/Debug/net6.0/semi1.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/bin/Debug/net6.0/semi1
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/bin/Debug/net6.0/semi1.deps.json
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/bin/Debug/net6.0/semi1.runtimeconfig.json
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/bin/Debug/net6.0/semi1.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/bin/Debug/net6.0/ref/semi1.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/bin/Debug/net6.0/semi1.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/obj/Debug/net6.0/semi1.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/obj/Debug/net6.0/ref/semi1.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/obj/Debug/net6.0/semi1.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/seminars4/semi1/obj/Debug/net6.0/semi1.genruntimeconfig.cache
