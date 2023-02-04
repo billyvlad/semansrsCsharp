@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "semis/1.0.0": {
+      "lec1/1.0.0": {
         "runtime": {
-          "semis.dll": {}
+          "lec1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "semis/1.0.0": {
+    "lec1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
