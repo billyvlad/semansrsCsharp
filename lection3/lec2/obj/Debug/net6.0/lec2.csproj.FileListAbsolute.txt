@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/obj/Debug/net6.0/lec2.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/obj/Debug/net6.0/lec2.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/obj/Debug/net6.0/lec2.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/obj/Debug/net6.0/lec2.AssemblyInfo.cs
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/obj/Debug/net6.0/lec2.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/bin/Debug/net6.0/lec2
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/bin/Debug/net6.0/lec2.deps.json
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/bin/Debug/net6.0/lec2.runtimeconfig.json
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/bin/Debug/net6.0/lec2.dll
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/bin/Debug/net6.0/ref/lec2.dll
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/bin/Debug/net6.0/lec2.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/obj/Debug/net6.0/lec2.dll
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/obj/Debug/net6.0/ref/lec2.dll
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/obj/Debug/net6.0/lec2.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/lection3/lec2/obj/Debug/net6.0/lec2.genruntimeconfig.cache
