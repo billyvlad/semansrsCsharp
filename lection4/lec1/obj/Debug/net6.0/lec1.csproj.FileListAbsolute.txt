@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/obj/Debug/net6.0/lec1.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/obj/Debug/net6.0/lec1.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/obj/Debug/net6.0/lec1.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/obj/Debug/net6.0/lec1.AssemblyInfo.cs
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/obj/Debug/net6.0/lec1.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/bin/Debug/net6.0/lec1
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/bin/Debug/net6.0/lec1.deps.json
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/bin/Debug/net6.0/lec1.runtimeconfig.json
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/bin/Debug/net6.0/lec1.dll
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/bin/Debug/net6.0/ref/lec1.dll
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/bin/Debug/net6.0/lec1.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/obj/Debug/net6.0/lec1.dll
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/obj/Debug/net6.0/ref/lec1.dll
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/obj/Debug/net6.0/lec1.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/lection4/lec1/obj/Debug/net6.0/lec1.genruntimeconfig.cache
