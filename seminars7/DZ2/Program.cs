@@ -50,7 +50,7 @@ void CheckNumber(int[,] array)
     int number = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine();
 
-    if (array[rows- 1, column - 1] == number)
+    if (array[rows - 1, column - 1] == number)
     {
         Console.WriteLine($"{number} - такое число по вашему запросу есть");
     }

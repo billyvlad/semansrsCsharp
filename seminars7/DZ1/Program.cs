@@ -22,7 +22,7 @@ double [,] CreateArray(int rows, int columns)
         {
                 for (int j = 0; j < array.GetLength(1); j++) 
                 {
-                        array[i, j] = Convert.ToDouble(new Random().Next(-9, 10)) / 10;           //array[i, j] = num.Next(-9, 10)+ num.NextDouble();(Но тогда выводится множество после запятой, 
+                        array[i, j] = Convert.ToDouble(new Random().Next(-50, 50)) / 10;           //array[i, j] = num.Next(-9, 10)+ num.NextDouble();(Но тогда выводится множество после запятой, 
                                                                                                     //не додумался КУДА сюда втулить Math Round) 
                 }
         }
