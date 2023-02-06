@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/bin/Debug/net6.0/one
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/bin/Debug/net6.0/one.deps.json
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/bin/Debug/net6.0/one.runtimeconfig.json
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/bin/Debug/net6.0/one.dll
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/bin/Debug/net6.0/ref/one.dll
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/bin/Debug/net6.0/one.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/obj/Debug/net6.0/one.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/obj/Debug/net6.0/one.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/obj/Debug/net6.0/one.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/obj/Debug/net6.0/one.AssemblyInfo.cs
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/obj/Debug/net6.0/one.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/obj/Debug/net6.0/one.dll
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/obj/Debug/net6.0/ref/one.dll
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/obj/Debug/net6.0/one.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/SelfWork/one/obj/Debug/net6.0/one.genruntimeconfig.cache
