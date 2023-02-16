@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/bin/Debug/net6.0/project3
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/bin/Debug/net6.0/project3.deps.json
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/bin/Debug/net6.0/project3.runtimeconfig.json
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/bin/Debug/net6.0/project3.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/bin/Debug/net6.0/ref/project3.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/bin/Debug/net6.0/project3.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/obj/Debug/net6.0/project3.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/obj/Debug/net6.0/project3.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/obj/Debug/net6.0/project3.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/obj/Debug/net6.0/project3.AssemblyInfo.cs
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/obj/Debug/net6.0/project3.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/obj/Debug/net6.0/project3.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/obj/Debug/net6.0/ref/project3.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/obj/Debug/net6.0/project3.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/seminars9/project3/obj/Debug/net6.0/project3.genruntimeconfig.cache
