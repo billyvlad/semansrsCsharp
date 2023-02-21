@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/bin/Debug/net6.0/DZ4
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/bin/Debug/net6.0/DZ4.deps.json
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/bin/Debug/net6.0/DZ4.runtimeconfig.json
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/bin/Debug/net6.0/DZ4.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/bin/Debug/net6.0/ref/DZ4.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/bin/Debug/net6.0/DZ4.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/obj/Debug/net6.0/DZ4.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/obj/Debug/net6.0/DZ4.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/obj/Debug/net6.0/DZ4.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/obj/Debug/net6.0/DZ4.AssemblyInfo.cs
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/obj/Debug/net6.0/DZ4.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/obj/Debug/net6.0/DZ4.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/obj/Debug/net6.0/ref/DZ4.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/obj/Debug/net6.0/DZ4.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ4/obj/Debug/net6.0/DZ4.genruntimeconfig.cache
