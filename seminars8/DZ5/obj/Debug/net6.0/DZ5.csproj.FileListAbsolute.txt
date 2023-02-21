@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/bin/Debug/net6.0/DZ5
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/bin/Debug/net6.0/DZ5.deps.json
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/bin/Debug/net6.0/DZ5.runtimeconfig.json
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/bin/Debug/net6.0/DZ5.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/bin/Debug/net6.0/ref/DZ5.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/bin/Debug/net6.0/DZ5.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/obj/Debug/net6.0/DZ5.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/obj/Debug/net6.0/DZ5.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/obj/Debug/net6.0/DZ5.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/obj/Debug/net6.0/DZ5.AssemblyInfo.cs
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/obj/Debug/net6.0/DZ5.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/obj/Debug/net6.0/DZ5.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/obj/Debug/net6.0/ref/DZ5.dll
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/obj/Debug/net6.0/DZ5.pdb
+/home/vladya/Рабочий стол/seminarsCsharp/seminars8/DZ5/obj/Debug/net6.0/DZ5.genruntimeconfig.cache
